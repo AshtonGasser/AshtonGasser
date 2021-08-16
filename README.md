@@ -3,7 +3,6 @@
 
 
 * I'm a FullStack Sofware Engineere based out of the Kansas City area! ✌️
-* I'm passionate about documentation and attention-to-detail 📚
 * Ask me anything! I'd love to connect!
 * Fun fact: I'm Currently learning how to play the bass 🤟
 
@@ -13,7 +12,8 @@ http://example.org/<digest>?url=<image-url>
 |---------|
 
   <h2> Lets Connect!</h2>
-
+  <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}"/>
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
   [LinkedIn](https://www.linkedin.com/in/ashton-g-368080213/)
  
 
