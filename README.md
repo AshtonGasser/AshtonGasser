@@ -1,6 +1,25 @@
-### Hi there 👋
+### Hi there 👋 
+<h2>Welcome to my GitHub!</h2>
 
-<!--
+
+* I'm a FullStack Sofware Engineere based out of the Kansas City area! ✌️
+* I'm passionate about documentation and attention-to-detail 📚
+* Ask me anything! I'd love to connect!
+* Fun fact: I'm Currently learning how to play the bass 🤟
+
+<h2>Technologies, Frameworks, and Libaries Learned/Learning 😎 </h2>
+|---------|
+http://example.org/<digest>?url=<image-url>
+|---------|
+
+  <h2> Lets Connect!</h2>
+
+  [LinkedIn](https://www.linkedin.com/in/ashton-g-368080213/)
+ 
+
+  <!--
+
+
 **AshtonGasser/AshtonGasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
